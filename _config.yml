@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Katarina Hoeger
-email: katarina.hoeger@gmail.com
+email: katarina@katarinahoeger.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Katarina Hoeger's personal website.
   Its purpose is to act as a portfolio for math, tech and music work.
